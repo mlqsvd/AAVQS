@@ -1,0 +1,18 @@
+---
+title: "Aprendizagem automática a partir de dados vetoriais quantitativos e simbólicos"
+page-layout: full
+---
+
+::: grid
+::: g-col-8
+::: {style="text-align: justify"}
+Bem vindos à página do grupo de pesquisa AAVQS. Esta página tem o objetivo de reunir e divulgar os resultados alcançados pelo grupo de pesquisadores em análise de dados reais e simbólicos das Universidades Federais de Pernambuco, da Paraíba e de Alagoas, e das Universidades de Bristol e Loughborough, no Reino Unido, referentes ao projeto desenvolvido no ambito do Edital Universal 2021 do CNPq intitulado "Aprendizagem automática a partir de dados vetoriais quantitativos e simbólicos" (Processo: 402873/2021-1).
+
+Esse projeto de pesquisa se propõe a realizar avanços no estado da arte em métodos de aprendizagem automática para a análise de dados vetoriais quantitativos e simbólicos. Ele envolve pesquisas básicas em agrupamento simultâneo de objetos e variáveis com base em funções de kernel, agrupamento de séries temporais de dados de tipo intervalo baseado em distâncias kernelizadas e adaptativas, aprendizagem de máquina em espaços de dissimilaridade simbólicos e agrupamento difuso usando graus de pertinência multivariados.
+:::
+:::
+
+::: g-col-4
+![](rectangles.png){fig-align="right" width="900"}
+:::
+:::

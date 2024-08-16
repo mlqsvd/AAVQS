@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "team.html#alunos",
+    "href": "team.html#alunos",
+    "title": "Equipe",
+    "section": "Alunos",
+    "text": "Alunos"
+  },
+  {
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "Resultados",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Linhas de Pesquisa",
+    "section": "",
+    "text": "Nessa linha de pesquisa, pretendemos desenvolver métodos de coclustering baseados em funções de kernel. Objetivamos desenvolver tais métodos sob ambas as perspectivas de métodos baseados em funções de kernel: kernelização da métrica, onde o representante de cada grupo é descrito no espaço original, e agrupamento no espaço de características, onde o representante de cada grupo é descrito no espaço de kernels, e também considerando dois tipos de agrupamentos particionais: exclusivo (hard ou crisp), onde uma observação pertence a um, e apenas um, grupo, e não-exclusivo (fuzzy), onde uma observação pode pertencer a todos os grupos com um certo grau de pertencimento. Os algoritmos correspondentes serão implementados em linguagem C/C++, R e/ou Python."
+  },
+  {
+    "objectID": "projects.html#agrupamento-de-séries-temporais-tipo-intervalo-baseado-em-distâncias-kernelizadas-e-adaptativas",
+    "href": "projects.html#agrupamento-de-séries-temporais-tipo-intervalo-baseado-em-distâncias-kernelizadas-e-adaptativas",
+    "title": "Linhas de Pesquisa",
+    "section": "Agrupamento de séries temporais tipo-intervalo baseado em distâncias kernelizadas e adaptativas",
+    "text": "Agrupamento de séries temporais tipo-intervalo baseado em distâncias kernelizadas e adaptativas\n\nNessa linha de pesquisa, pretendemos desenvolver, implementar e avaliar novos algoritmos para agrupamento de séries temporais tipo-intervalo baseados em kernel, considerando os enfoques de kernelização da métrica e agrupamento espaço de características, e em distâncias adaptativas. Os algoritmos correspondentes serão implementados em linguagem R."
+  },
+  {
+    "objectID": "projects.html#aprendizagem-de-máquina-em-espaços-de-dissimilaridade-simbólicos",
+    "href": "projects.html#aprendizagem-de-máquina-em-espaços-de-dissimilaridade-simbólicos",
+    "title": "Linhas de Pesquisa",
+    "section": "Aprendizagem de máquina em espaços de dissimilaridade simbólicos",
+    "text": "Aprendizagem de máquina em espaços de dissimilaridade simbólicos\n\nNessa linha de pesquisa, pretendemos desenvolver técnicas para transformar dados simbólicos em dados clássicos, sem desconsiderar as correlações implícitas das variáveis simbólicas, abrindo caminho para o uso de todo o universo de técnicas de Aprendizagem de Máquina para dados clássicos, sem precisar adaptá-las para dados simbólicos. Para isso, esta atividade irá usar distâncias e/ou métodos de agrupamento simbólicos, para obter representações dos dados simbólicos em um novo espaço de dissimilaridades, em que cada instância será representada pelas suas distâncias para outras instâncias de dados. Essas distâncias assumem valores numéricos que podem então ser usados como entrada para o treinamento de métodos clássicos de Aprendizagem de Máquina. Os algoritmos correspondentes serão implementados em Python."
+  },
+  {
+    "objectID": "projects.html#métodos-de-agrupamento-difuso-usando-graus-de-pertinência-multivariados",
+    "href": "projects.html#métodos-de-agrupamento-difuso-usando-graus-de-pertinência-multivariados",
+    "title": "Linhas de Pesquisa",
+    "section": "Métodos de agrupamento difuso usando graus de pertinência multivariados",
+    "text": "Métodos de agrupamento difuso usando graus de pertinência multivariados\n\nNessa linha de pesquisa, pretendemos desenvolver métodos de agrupamento difuso para vetores numéricos. Esses métodos são menos sensíveis a situações em que dados ruidosos estão presentes no conjunto de dados. O grau pertinência de um elemento do conjunto de dados para um grupo é definido levando em conta a similaridade entre esse elemento e o representante de cada grupo de acordo com informação inerente a cada variável. Além disso, os métodos usam medidas de distância que consideram vetores de pesos diferentes por grupo e variável. Esses valores de peso podem mudar a cada iteração dos algoritmos a fim de melhorar o desempenho dos mesmos. Os algoritmos serão implementados em R."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SDA@NE",
+    "section": "",
+    "text": "Bem vindos à página do grupo de pesquisa SDA@NE! Esta página tem o objetivo de reunir e divulgar os resultados alcançados pelo grupo de pesquisadores em Análise de Dados Simbólicos (SDA, do inglês Symbolic Data Analysis) das Universidades Federais de Pernambuco, da Paraíba e de Alagoas e das Universidades de Bristol e Loughborough, no Reino Unido, referentes ao projeto desenvolvido no ambito do Edital Universal 2021 do CNPq intitulado “Aprendizagem automática a partir de dados vetoriais quantitativos e simbólicos” (Processo: 402873/2021-1).\nEsse projeto de pesquisa se propõe a realizar avanços no estado da arte em métodos de aprendizagem automática para a análise de dados vetoriais quantitativos e simbólicos. Ele envolve pesquisas básicas em agrupamento simultâneo de objetos e variáveis com base em funções de kernel, agrupamento de séries temporais de dados de tipo intervalo baseado em distâncias kernelizadas e adaptativas, aprendizagem de máquina em espaços de dissimilaridade simbólicos e agrupamento difuso usando graus de pertinência multivariados."
+  },
+  {
+    "objectID": "projects.html#agrupamento-simultâneo-de-objetos-e-variáveis-baseado-em-funções-de-kernel",
+    "href": "projects.html#agrupamento-simultâneo-de-objetos-e-variáveis-baseado-em-funções-de-kernel",
+    "title": "Linhas de Pesquisa",
+    "section": "",
+    "text": "Nessa linha de pesquisa, pretendemos desenvolver métodos de coclustering baseados em funções de kernel. Objetivamos desenvolver tais métodos sob ambas as perspectivas de métodos baseados em funções de kernel: kernelização da métrica, onde o representante de cada grupo é descrito no espaço original, e agrupamento no espaço de características, onde o representante de cada grupo é descrito no espaço de kernels, e também considerando dois tipos de agrupamentos particionais: exclusivo (hard ou crisp), onde uma observação pertence a um, e apenas um, grupo, e não-exclusivo (fuzzy), onde uma observação pode pertencer a todos os grupos com um certo grau de pertencimento. Os algoritmos correspondentes serão implementados em linguagem C/C++, R e/ou Python."
+  }
+]

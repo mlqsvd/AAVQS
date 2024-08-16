@@ -1,0 +1,35 @@
+---
+title: "Equipe"
+---
+
+::: {style="text-align: center"}
+## Professores
+:::
+
+::: {style="text-align: justify"}
+-   [Francisco de Assis Tenório de Carvalho](http://lattes.cnpq.br/3909162572623711), Ph.D. (Centro de Informática/UFPE) - Coordenador.
+
+-   [Renata Maria Cardoso Rodrigues de Souza](http://lattes.cnpq.br/9289080285504453), D.Sc. (Centro de Informática/UFPE).
+
+-   [Eufrásio de Andrade Lima Neto](http://lattes.cnpq.br/5580004940091667), D.Sc. (Departamento de Estatística/UFPB).
+
+-   [Telmo de Meneses e Silva Filho](http://lattes.cnpq.br/4640945954423515), D.SC. (Departamento de Estatística/UFPB).
+
+-   [Marcelo Rodrigo Portela Ferreira](http://lattes.cnpq.br/2620157217100077), D.Sc. (Departamento de Estatística/UFPB).
+
+-   [Bruno Almeida Pimentel](http://lattes.cnpq.br/5575405279834457), D.Sc. (Instituto de Computação/UFAL).
+:::
+
+::: {style="text-align: center"}
+## Alunos
+:::
+
+::: {style="text-align: justify"}
+-   José Nataniel Andrade de Sá, Bacharel em Estatística (Aluno de mestrado, Centro de Informática/UFPE).
+
+-   Fernanda Teixeira dos Santos, Bacharel em Sistemas de Informação (Aluna de mestrado, Centro de Informática/UFPE).
+
+-   Victor Viana de Araújo Silva, Bacharel em Estatística (Aluno de mestrado, Centro de Informática/UFPE).
+
+-   Katy Sylvia Batista Castro, Licenciada em Matemática (Aluna de mestrado, Programa de Pós-raduação em Modelagem Matemática e Computacional/UFPB).
+:::

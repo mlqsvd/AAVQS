@@ -1,0 +1,71 @@
+---
+title: "Equipe de Pesquisa"
+---
+
+::: {style="text-align: center"}
+## Professores
+:::
+
+::: {style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;"}
+::: {style="display: flex; flex: 1; justify-content: center; flex-basis: 30%;"}
+::: {style="text-align: center;"}
+<img src="images/Foto_Chico.png" alt="Foto de Francisco de Assis Tenório de Carvalho" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"/>
+
+<p><a href="http://lattes.cnpq.br/3909162572623711" target="_blank">Francisco de Assis Tenório de Carvalho</a>, Ph.D.<br> (Centro de Informática/UFPE) - Coordenador</p>
+:::
+:::
+
+::: {style="display: flex; flex: 1; justify-content: center; flex-basis: 30%;"}
+::: {style="text-align: center;"}
+<img src="images/Foto_Renata.png" alt="Foto de Renata Maria Cardoso Rodrigues de Souza" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"/>
+
+<p><a href="http://lattes.cnpq.br/9289080285504453" target="_blank">Renata Maria Cardoso Rodrigues de Souza</a>, D.Sc.<br> (Centro de Informática/UFPE)</p>
+:::
+:::
+
+::: {style="display: flex; flex: 1; justify-content: center; flex-basis: 30%;"}
+::: {style="text-align: center;"}
+<img src="images/Foto_Eufrasio.png" alt="Foto de Eufrásio de Andrade Lima Neto" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"/>
+
+<p><a href="http://lattes.cnpq.br/5580004940091667" target="_blank">Eufrásio de Andrade Lima Neto</a>, D.Sc.<br> (Departamento de Estatística/UFPB)</p>
+:::
+:::
+
+::: {style="display: flex; flex: 1; justify-content: center; flex-basis: 30%;"}
+::: {style="text-align: center;"}
+<img src="images/Foto_Telmo.png" alt="Foto de Telmo de Meneses e Silva Filho" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"/>
+
+<p><a href="http://lattes.cnpq.br/4640945954423515" target="_blank">Telmo de Meneses e Silva Filho</a>, D.Sc.<br> (Departamento de Estatística/UFPB)</p>
+:::
+:::
+
+::: {style="display: flex; flex: 1; justify-content: center; flex-basis: 30%;"}
+::: {style="text-align: center;"}
+<img src="images/Foto_Marcelo.png" alt="Foto de Marcelo Rodrigo Portela Ferreira" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"/>
+
+<p><a href="http://lattes.cnpq.br/2620157217100077" target="_blank">Marcelo Rodrigo Portela Ferreira</a>, D.Sc.<br> (Departamento de Estatística/UFPB)</p>
+:::
+:::
+
+::: {style="display: flex; flex: 1; justify-content: center; flex-basis: 30%;"}
+::: {style="text-align: center;"}
+<img src="images/Foto_Bruno.png" alt="Foto de Bruno Almeida Pimentel" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"/>
+
+<p><a href="http://lattes.cnpq.br/5575405279834457" target="_blank">Bruno Almeida Pimentel</a>, D.Sc.<br> (Instituto de Computação/UFAL)</p>
+:::
+:::
+:::
+
+::: {style="text-align: center"}
+## Alunos
+:::
+
+::: {style="text-align: justify"}
+-   [José Nataniel Andrade de Sá](http://lattes.cnpq.br/0547822765322755), Mestre em Ciência da Computação (Aluno de doutorado, Centro de Informática/UFPE).
+
+-   [Fernanda Teixeira dos Santos](http://lattes.cnpq.br/8976227353991391), Bacharel em Sistemas de Informação (Aluna de mestrado, Centro de Informática/UFPE).
+
+-   [Victor Viana de Araújo Silva](http://lattes.cnpq.br/4216568349594897), Bacharel em Estatística (Aluno de mestrado, Centro de Informática/UFPE).
+
+-   [Katy Sylvia Batista Castro](http://lattes.cnpq.br/1352268659077751), Licenciada em Matemática (Aluna de mestrado, Programa de Pós-graduação em Modelagem Matemática e Computacional/UFPB).
+:::

@@ -1,0 +1,7 @@
+---
+title: "Resultados"
+listing:
+  contents: posts
+---
+
+Aqui serão disponibilizadas as publicações, implementações e outras informações relevantes relacionadas às linhas de pesquisa do projeto.
