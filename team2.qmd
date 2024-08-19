@@ -1,5 +1,5 @@
 ---
-title: "Equipe de Pesquisa"
+title: "Equipe"
 ---
 
 ::: {style="text-align: center"}
