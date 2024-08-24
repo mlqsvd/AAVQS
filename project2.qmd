@@ -1,13 +1,15 @@
 ---
-title: "Resultados"
-listing:
-  contents: posts
+title: "Agrupamento de séries temporais tipo-intervalo baseado em distâncias kernelizadas e adaptativas"
 ---
 
-## Agrupamento simultâneo de objetos e variáveis baseado em funções de kernel {#projeto1}
+::: {style="text-align: justify"}
+## Resumo
+:::
+
+Nessa linha de pesquisa, pretendemos desenvolver, implementar e avaliar novos algoritmos para agrupamento de séries temporais tipo-intervalo baseados em kernel, considerando os enfoques de kernelização da métrica e agrupamento espaço de características, e em distâncias adaptativas. Os algoritmos correspondentes serão implementados em linguagem [R](http://www.r-project.org).
 
 ::: {style="text-align: justify"}
-### Publicações
+## Publicações
 :::
 
 José Nataniel A. de Sá, Marcelo R.P. Ferreira, Francisco de A.T. de Carvalho. [Kernel-based Fuzzy Co-clustering in Feature Space with Automated Variable Weighting](https://ieeexplore.ieee.org/abstract/document/9882838). **IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)**, Padua, Italy, 2022. ([código](https://github.com/Natandradesa/Kernel-Fuzzy-Co-clustering-in-Feature-Space))
@@ -43,24 +45,6 @@ José Nataniel A. de Sá, Marcelo R.P. Ferreira, Francisco de A.T. de Carvalho.
 
 </p>
 
-### Alunos formados
+## Alunos formados
 
 José Nataniel Andrade de Sá - Mestrado em Ciência da Computação, Centro de Informática - UFPE, Fev/2023 ([Dissertação](https://repositorio.ufpe.br/bitstream/123456789/49514/1/DISSERTAÇÃO%20José%20Nataniel%20Andrade%20de%20Sá.pdf))
-
-## Agrupamento de séries temporais tipo-intervalo baseado em distâncias kernelizadas e adaptativas {#projeto2}
-
-::: {style="text-align: justify"}
-bla bla bla
-:::
-
-## Aprendizagem de máquina em espaços de dissimilaridade simbólicos {#projeto3}
-
-::: {style="text-align: justify"}
-bla bla bla
-:::
-
-## Métodos de agrupamento difuso usando graus de pertinência multivariados {#projeto4}
-
-::: {style="text-align: justify"}
-bla bla bla
-:::

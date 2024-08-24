@@ -1,13 +1,14 @@
 ---
-title: "Resultados"
-listing:
-  contents: posts
+title: "Aprendizagem de máquina em espaços de dissimilaridade simbólicos"
 ---
 
-## Agrupamento simultâneo de objetos e variáveis baseado em funções de kernel {#projeto1}
+::: {style="text-align: justify"}
+## Resumo
+:::
+Nessa linha de pesquisa, pretendemos desenvolver técnicas para transformar dados simbólicos em dados clássicos, sem desconsiderar as correlações implícitas das variáveis simbólicas, abrindo caminho para o uso de todo o universo de técnicas de Aprendizagem de Máquina para dados clássicos, sem precisar adaptá-las para dados simbólicos. Para isso, esta atividade irá usar distâncias e/ou métodos de agrupamento simbólicos, para obter representações dos dados simbólicos em um novo espaço de dissimilaridades, em que cada instância será representada pelas suas distâncias para outras instâncias de dados. Essas distâncias assumem valores numéricos que podem então ser usados como entrada para o treinamento de métodos clássicos de Aprendizagem de Máquina. Os algoritmos correspondentes serão implementados em Python.
 
 ::: {style="text-align: justify"}
-### Publicações
+## Publicações
 :::
 
 José Nataniel A. de Sá, Marcelo R.P. Ferreira, Francisco de A.T. de Carvalho. [Kernel-based Fuzzy Co-clustering in Feature Space with Automated Variable Weighting](https://ieeexplore.ieee.org/abstract/document/9882838). **IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)**, Padua, Italy, 2022. ([código](https://github.com/Natandradesa/Kernel-Fuzzy-Co-clustering-in-Feature-Space))
@@ -43,24 +44,6 @@ José Nataniel A. de Sá, Marcelo R.P. Ferreira, Francisco de A.T. de Carvalho.
 
 </p>
 
-### Alunos formados
+## Alunos formados
 
 José Nataniel Andrade de Sá - Mestrado em Ciência da Computação, Centro de Informática - UFPE, Fev/2023 ([Dissertação](https://repositorio.ufpe.br/bitstream/123456789/49514/1/DISSERTAÇÃO%20José%20Nataniel%20Andrade%20de%20Sá.pdf))
-
-## Agrupamento de séries temporais tipo-intervalo baseado em distâncias kernelizadas e adaptativas {#projeto2}
-
-::: {style="text-align: justify"}
-bla bla bla
-:::
-
-## Aprendizagem de máquina em espaços de dissimilaridade simbólicos {#projeto3}
-
-::: {style="text-align: justify"}
-bla bla bla
-:::
-
-## Métodos de agrupamento difuso usando graus de pertinência multivariados {#projeto4}
-
-::: {style="text-align: justify"}
-bla bla bla
-:::
