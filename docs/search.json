@@ -319,20 +319,27 @@
     "href": "project4.html",
     "title": "Métodos de agrupamento difuso usando graus de pertinência multivariados",
     "section": "",
-    "text": "Nessa linha de pesquisa, pretendemos desenvolver métodos de agrupamento difuso para vetores numéricos. Esses métodos são menos sensíveis a situações em que dados ruidosos estão presentes no conjunto de dados. O grau pertinência de um elemento do conjunto de dados para um grupo é definido levando em conta a similaridade entre esse elemento e o representante de cada grupo de acordo com informação inerente a cada variável. Além disso, os métodos usam medidas de distância que consideram vetores de pesos diferentes por grupo e variável. Esses valores de peso podem mudar a cada iteração dos algoritmos a fim de melhorar o desempenho dos mesmos. Os algoritmos serão implementados em R.\nJosé Nataniel A. de Sá, Marcelo R.P. Ferreira, Francisco de A.T. de Carvalho. Kernel-based Fuzzy Co-clustering in Feature Space with Automated Variable Weighting. IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), Padua, Italy, 2022. (código)\nCódigo"
+    "text": "Nessa linha de pesquisa, pretendemos desenvolver métodos de agrupamento difuso para vetores numéricos. Esses métodos são menos sensíveis a situações em que dados ruidosos estão presentes no conjunto de dados. O grau de pertinência de um elemento do conjunto de dados para um grupo é definido levando em conta a similaridade entre esse elemento e o representante de cada grupo de acordo com a informação inerente a cada variável. Além disso, os métodos usam medidas de distância que consideram vetores de pesos diferentes por grupo e variável. Esses valores de peso podem mudar a cada iteração dos algoritmos a fim de melhorar o desempenho dos mesmos. Os algoritmos serão implementados em R."
   },
   {
     "objectID": "project4.html#publicações",
     "href": "project4.html#publicações",
     "title": "Métodos de agrupamento difuso usando graus de pertinência multivariados",
     "section": "Publicações",
-    "text": "Publicações"
+    "text": "Publicações\n\nBruno Almeida Pimentel, Jadson Crislan Santos Costa. A hybrid algorithm for fuzzy clustering based on global and local membership degree. IEEE International Joint Conference on Neural Networks (IJCNN), Padua, Italy, 2022. \n\n\n\n\n A hybrid algorithm for fuzzy clustering based on global and local membership degree \n\n\nIn the fuzzy clustering approach, the most popular algorithm is the Fuzzy C-Means (FCM), which uses a global view of variables to calculate the degree of membership. On the other hand, the Multivariate Fuzzy C-Means (MFCM) uses a local view of variables to calculate the degree of membership. In this work, we proposed a new hybrid algorithm to use a combined local and global view approaches.\n\n\nBruno Almeida Pimentel, Jadson Crislan Santos Costa."
   },
   {
     "objectID": "project4.html#alunos-formados",
     "href": "project4.html#alunos-formados",
     "title": "Métodos de agrupamento difuso usando graus de pertinência multivariados",
     "section": "Alunos formados",
-    "text": "Alunos formados\nJosé Nataniel Andrade de Sá - Mestrado em Ciência da Computação, Centro de Informática - UFPE, Fev/2023 (Dissertação)"
+    "text": "Alunos formados"
+  },
+  {
+    "objectID": "project4.html#resumo",
+    "href": "project4.html#resumo",
+    "title": "Métodos de agrupamento difuso usando graus de pertinência multivariados",
+    "section": "",
+    "text": "Nessa linha de pesquisa, pretendemos desenvolver métodos de agrupamento difuso para vetores numéricos. Esses métodos são menos sensíveis a situações em que dados ruidosos estão presentes no conjunto de dados. O grau de pertinência de um elemento do conjunto de dados para um grupo é definido levando em conta a similaridade entre esse elemento e o representante de cada grupo de acordo com a informação inerente a cada variável. Além disso, os métodos usam medidas de distância que consideram vetores de pesos diferentes por grupo e variável. Esses valores de peso podem mudar a cada iteração dos algoritmos a fim de melhorar o desempenho dos mesmos. Os algoritmos serão implementados em R."
   }
 ]

@@ -5,6 +5,7 @@ title: "Aprendizagem de máquina em espaços de dissimilaridade simbólicos"
 ::: {style="text-align: justify"}
 ## Resumo
 :::
+
 Nessa linha de pesquisa, pretendemos desenvolver técnicas para transformar dados simbólicos em dados clássicos, sem desconsiderar as correlações implícitas das variáveis simbólicas, abrindo caminho para o uso de todo o universo de técnicas de Aprendizagem de Máquina para dados clássicos, sem precisar adaptá-las para dados simbólicos. Para isso, esta atividade irá usar distâncias e/ou métodos de agrupamento simbólicos, para obter representações dos dados simbólicos em um novo espaço de dissimilaridades, em que cada instância será representada pelas suas distâncias para outras instâncias de dados. Essas distâncias assumem valores numéricos que podem então ser usados como entrada para o treinamento de métodos clássicos de Aprendizagem de Máquina. Os algoritmos correspondentes serão implementados em Python.
 
 ::: {style="text-align: justify"}

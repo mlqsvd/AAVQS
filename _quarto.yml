@@ -18,7 +18,7 @@ website:
             href: project1.qmd
           - text: Agrupamento de séries temporais tipo-intervalo baseado em distâncias kernelizadas e adaptativas
             href: project2.qmd
-          - text: Agrupamento de séries temporais tipo-intervalo baseado em distâncias kernelizadas e adaptativas
+          - text: Aprendizagem de máquina em espaços de dissimilaridade simbólicos
             href: project3.qmd
           - text:  Métodos de agrupamento difuso usando graus de pertinência multivariados
             href: project4.qmd
