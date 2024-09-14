@@ -277,7 +277,7 @@
     "href": "project2.html",
     "title": "Agrupamento de séries temporais tipo-intervalo baseado em distâncias kernelizadas e adaptativas",
     "section": "",
-    "text": "Nessa linha de pesquisa, pretendemos desenvolver, implementar e avaliar novos algoritmos para agrupamento de séries temporais tipo-intervalo baseados em kernel, considerando os enfoques de kernelização da métrica e agrupamento espaço de características, e em distâncias adaptativas. Os algoritmos correspondentes serão implementados em linguagem R.\nJosé Nataniel A. de Sá, Marcelo R.P. Ferreira, Francisco de A.T. de Carvalho. Kernel-based Fuzzy Co-clustering in Feature Space with Automated Variable Weighting. IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), Padua, Italy, 2022. (código)\nCódigo"
+    "text": "Nessa linha de pesquisa, pretendemos desenvolver, implementar e avaliar novos algoritmos para agrupamento de séries temporais tipo-intervalo baseados em kernel, considerando os enfoques de kernelização da métrica e agrupamento espaço de características, e em distâncias adaptativas. Os algoritmos correspondentes serão implementados em linguagem R."
   },
   {
     "objectID": "project2.html#publicações",
@@ -291,7 +291,7 @@
     "href": "project2.html#alunos-formados",
     "title": "Agrupamento de séries temporais tipo-intervalo baseado em distâncias kernelizadas e adaptativas",
     "section": "Alunos formados",
-    "text": "Alunos formados\nJosé Nataniel Andrade de Sá - Mestrado em Ciência da Computação, Centro de Informática - UFPE, Fev/2023 (Dissertação)"
+    "text": "Alunos formados\nKaty Sylvia Batista Castro - Mestrado em Modelagem Matématica e Computacional, Centro de Informática - UFPB, Mar/2022, obtido com o trabalho intitulado Distâncias adaptativas e kernelizadas aplicadas a agrupamento de series temporais tipo intervalo."
   },
   {
     "objectID": "project1.html",
@@ -312,7 +312,7 @@
     "href": "project1.html#alunos-formados",
     "title": "Agrupamento simultâneo de objetos e variáveis baseado em funções de kernel",
     "section": "Alunos formados",
-    "text": "Alunos formados\nJosé Nataniel Andrade de Sá - Mestrado em Ciência da Computação, Centro de Informática - UFPE, Fev/2023 (Dissertação)"
+    "text": "Alunos formados\nJosé Nataniel Andrade de Sá - Mestrado em Ciência da Computação, Centro de Informática - UFPE, Fev/2023, obtido com o trabalho intitulado Modelos de Co-clustering Fuzzy Baseados em Kernel no Espaço de Características com Ponderação Automática das Variáveis"
   },
   {
     "objectID": "project4.html",

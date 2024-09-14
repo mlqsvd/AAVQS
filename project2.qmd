@@ -8,6 +8,9 @@ title: "Agrupamento de séries temporais tipo-intervalo baseado em distâncias k
 
 Nessa linha de pesquisa, pretendemos desenvolver, implementar e avaliar novos algoritmos para agrupamento de séries temporais tipo-intervalo baseados em kernel, considerando os enfoques de kernelização da métrica e agrupamento espaço de características, e em distâncias adaptativas. Os algoritmos correspondentes serão implementados em linguagem [R](http://www.r-project.org).
 
+```{=html}
+<!--
+
 ::: {style="text-align: justify"}
 ## Publicações
 :::
@@ -45,6 +48,9 @@ José Nataniel A. de Sá, Marcelo R.P. Ferreira, Francisco de A.T. de Carvalho.
 
 </p>
 
+-->
+```
 ## Alunos formados
 
-José Nataniel Andrade de Sá - Mestrado em Ciência da Computação, Centro de Informática - UFPE, Fev/2023 ([Dissertação](https://repositorio.ufpe.br/bitstream/123456789/49514/1/DISSERTAÇÃO%20José%20Nataniel%20Andrade%20de%20Sá.pdf))
+Katy Sylvia Batista Castro - Mestrado em Modelagem Matématica e Computacional, Centro de Informática - UFPB, Mar/2022, obtido com o trabalho intitulado [*Distâncias adaptativas e kernelizadas aplicadas a agrupamento de series temporais tipo intervalo*](https://repositorio.ufpb.br/jspui/bitstream/123456789/23455/1/KatySylviaBatistaCastro_Dissert.pdf).
+
